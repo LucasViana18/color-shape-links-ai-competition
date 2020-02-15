@@ -1,0 +1,5 @@
+<map id="LoserSleeperAIThinker" name="LoserSleeperAIThinker">
+<area shape="rect" id="node1" title="Implementation of an AI that will always lose because it takes too long to play." alt="" coords="5,373,160,451"/>
+<area shape="rect" id="node2" href="$class_color_shape_links_1_1_common_1_1_a_i_1_1_abstract_thinker.html" title="The actual AI code of specific AIs should be placed in classes which extend this class." alt="" coords="13,131,152,325"/>
+<area shape="rect" id="node3" href="$interface_color_shape_links_1_1_common_1_1_a_i_1_1_i_thinker.html" title="The actual AI code of specific thinkers should be placed in classes which implement this interface." alt="" coords="45,5,120,83"/>
+</map>

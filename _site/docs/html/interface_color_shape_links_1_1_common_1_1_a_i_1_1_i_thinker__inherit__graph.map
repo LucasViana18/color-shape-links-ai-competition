@@ -1,0 +1,9 @@
+<map id="IThinker" name="IThinker">
+<area shape="rect" id="node1" title="The actual AI code of specific thinkers should be placed in classes which implement this interface." alt="" coords="533,5,608,83"/>
+<area shape="rect" id="node2" href="$class_color_shape_links_1_1_common_1_1_a_i_1_1_abstract_thinker.html" title="The actual AI code of specific AIs should be placed in classes which extend this class." alt="" coords="397,131,536,325"/>
+<area shape="rect" id="node7" href="$class_color_shape_links_1_1_text_based_1_1_app_1_1_human_thinker.html" title="A human thinker for testing the console app." alt="" coords="675,373,781,465"/>
+<area shape="rect" id="node3" href="$class_color_shape_links_1_1_common_1_1_a_i_1_1_examples_1_1_bad_move_a_i_thinker.html" title="This thinker always tries to make an invalid or illogical move. Used for testing purposes only." alt="" coords="5,373,139,465"/>
+<area shape="rect" id="node4" href="$class_color_shape_links_1_1_common_1_1_a_i_1_1_examples_1_1_loser_sleeper_a_i_thinker.html" title="Implementation of an AI that will always lose because it takes too long to play." alt="" coords="163,381,317,458"/>
+<area shape="rect" id="node5" href="$class_color_shape_links_1_1_common_1_1_a_i_1_1_examples_1_1_random_a_i_thinker.html" title="Implementation of an AI that will play randomly." alt="" coords="341,373,488,465"/>
+<area shape="rect" id="node6" href="$class_color_shape_links_1_1_common_1_1_a_i_1_1_examples_1_1_sequential_a_i_thinker.html" title="Implementation of an AI that will always play in sequence, from the first to the last column...." alt="" coords="512,381,651,458"/>
+</map>

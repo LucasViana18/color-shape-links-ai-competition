@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_color_shape_links_1_1_text_based_1_1_app_1_1_base_options.html" title="Command&#45;line base options, available to all verb commands." alt="" coords="31,5,129,32"/>
+<area shape="rect" id="node2" href="$class_color_shape_links_1_1_text_based_1_1_app_1_1_game_options.html" title="Command line game options, available to both the &quot;match&quot; and &quot;session&quot; verb commands." alt="" coords="241,5,344,32"/>
+<area shape="rect" id="node3" href="$class_color_shape_links_1_1_text_based_1_1_app_1_1_match_options.html" title="Command line match options, available only to the &quot;match&quot; verb command." alt="" coords="447,5,549,32"/>
+<area shape="rect" id="node4" href="$class_color_shape_links_1_1_text_based_1_1_app_1_1_session_options.html" title="Command line session options, available only to the &quot;session&quot; verb command." alt="" coords="441,56,555,83"/>
+<area shape="rect" id="node5" href="$interface_color_shape_links_1_1_common_1_1_session_1_1_i_match_config.html" title="Defines a match configuration, such as number of rows, number of columns, etc." alt="" coords="30,81,130,108"/>
+<area shape="rect" id="node6" href="$class_color_shape_links_1_1_unity_app_1_1_session_controller.html" title="Script which controls ColorShapeLinks sessions, which can include one or more matches." alt="" coords="435,183,561,209"/>
+<area shape="rect" id="node7" href="$interface_color_shape_links_1_1_common_1_1_session_1_1_i_match_data_provider.html" title="Defines a data provider for ColorShapeLinks matches." alt="" coords="11,157,149,184"/>
+<area shape="rect" id="node8" href="$class_color_shape_links_1_1_text_based_1_1_lib_1_1_session_controller.html" title="Controls a session of ColorShapeLinks matches." alt="" coords="230,208,355,235"/>
+<area shape="rect" id="node9" href="$interface_color_shape_links_1_1_unity_app_1_1_i_match_view_config.html" title="Interface defining configuration options for match views." alt="" coords="228,309,357,336"/>
+<area shape="rect" id="node10" href="$interface_color_shape_links_1_1_unity_app_1_1_i_player.html" title="Defines a player for the ColorShapeLinks board game." alt="" coords="261,487,324,513"/>
+<area shape="rect" id="node11" href="$class_color_shape_links_1_1_unity_app_1_1_a_i_player.html" title="Component which represents an AI thinker." alt="" coords="462,461,534,488"/>
+<area shape="rect" id="node12" href="$class_color_shape_links_1_1_unity_app_1_1_human_player.html" title="Represents a human player, for testing purposes." alt="" coords="447,512,549,539"/>
+<area shape="rect" id="node13" href="$interface_color_shape_links_1_1_common_1_1_session_1_1_i_session_config.html" title="Defines a session configuration, points per win, per loss, etc." alt="" coords="237,56,348,83"/>
+<area shape="rect" id="node14" href="$interface_color_shape_links_1_1_common_1_1_session_1_1_i_session_data_provider.html" title="Defines a data provider for ColorShapeLinks sessions, which include one or more matches." alt="" coords="5,259,155,285"/>
+<area shape="rect" id="node15" href="$interface_color_shape_links_1_1_unity_app_1_1_i_unity_session_data_provider.html" title="Defines a data provider for ColorShapeLinks Unity sessions, which include one or more matches." alt="" coords="203,259,383,285"/>
+<area shape="rect" id="node16" href="$interface_color_shape_links_1_1_text_based_1_1_lib_1_1_i_session_subject.html" title="Interface defining the events raised in a session of ColorShapeLinks." alt="" coords="21,208,139,235"/>
+<area shape="rect" id="node17" title=" " alt="" coords="237,360,349,387"/>
+<area shape="rect" id="node18" href="$class_color_shape_links_1_1_unity_app_1_1_human_move_button.html" title="Script that controls a UI button for performing human moves." alt="" coords="431,259,565,285"/>
+<area shape="rect" id="node19" href="$class_color_shape_links_1_1_unity_app_1_1_match_controller.html" title="Script which controls ColorShapeLinks matches." alt="" coords="441,309,555,336"/>
+<area shape="rect" id="node20" href="$class_color_shape_links_1_1_unity_app_1_1_match_view.html" title="Script which renders the matches UI." alt="" coords="455,360,541,387"/>
+<area shape="rect" id="node21" href="$class_color_shape_links_1_1_unity_app_1_1_session_view.html" title="Script which renders the session UI." alt="" coords="449,411,547,437"/>
+</map>
